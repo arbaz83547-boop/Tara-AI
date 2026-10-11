@@ -1,0 +1,11 @@
+{
+  "name": "Tara AI Voice Assistant",
+  "short_name": "Tara AI",
+  "description": "Hindi and English voice assistant",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#10111a",
+  "theme_color": "#11121a",
+  "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
